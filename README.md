@@ -1,6 +1,6 @@
 # updatedPokedexApp
 
-This is the better version of previous one. I preferred 'collection View' for this time for better outlooking also tried to use different view stuff.
+This is the better version of previous one. I preferred 'collection View' for this time for better outlooking also tried to use different view stuff..
 
 
 
